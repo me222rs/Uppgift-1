@@ -26,3 +26,10 @@ F:\UnitTestTri\bin\Debug\Tri.pdb
 F:\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
 F:\UnitTestTri\obj\Debug\UnitTestTri.dll
 F:\UnitTestTri\obj\Debug\UnitTestTri.pdb
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.dll
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\bin\Debug\UnitTestTri.pdb
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\bin\Debug\Tri.exe
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\bin\Debug\Tri.pdb
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.dll
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\UnitTestTri\obj\Debug\UnitTestTri.pdb
