@@ -1,0 +1,21 @@
+c:\users\mikael\documents\visual studio 2012\Projects\Tri\bin\Debug\Tri.exe.config
+c:\users\mikael\documents\visual studio 2012\Projects\Tri\bin\Debug\Tri.exe
+c:\users\mikael\documents\visual studio 2012\Projects\Tri\bin\Debug\Tri.pdb
+c:\users\mikael\documents\visual studio 2012\Projects\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
+c:\users\mikael\documents\visual studio 2012\Projects\Tri\obj\Debug\Tri.exe
+c:\users\mikael\documents\visual studio 2012\Projects\Tri\obj\Debug\Tri.pdb
+H:\Tri\bin\Debug\Tri.exe.config
+H:\Tri\obj\Debug\Tri.exe
+H:\Tri\obj\Debug\Tri.pdb
+H:\Tri\bin\Debug\Tri.exe
+H:\Tri\bin\Debug\Tri.pdb
+H:\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
+E:\Tri\bin\Debug\Tri.exe.config
+E:\Tri\obj\Debug\Tri.exe
+E:\Tri\obj\Debug\Tri.pdb
+F:\Tri\bin\Debug\Tri.exe.config
+F:\Tri\obj\Debug\Tri.exe
+F:\Tri\obj\Debug\Tri.pdb
+F:\Tri\bin\Debug\Tri.exe
+F:\Tri\bin\Debug\Tri.pdb
+F:\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache

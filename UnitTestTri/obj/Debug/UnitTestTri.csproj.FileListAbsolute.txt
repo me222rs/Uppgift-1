@@ -1,0 +1,28 @@
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\bin\Debug\UnitTestTri.dll
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\bin\Debug\UnitTestTri.pdb
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\bin\Debug\Tri.exe
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\bin\Debug\Tri.pdb
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\obj\Debug\UnitTestTri.dll
+c:\users\mikael\documents\visual studio 2012\Projects\UnitTestTri\obj\Debug\UnitTestTri.pdb
+H:\UnitTestTri\bin\Debug\UnitTestTri.dll
+H:\UnitTestTri\bin\Debug\UnitTestTri.pdb
+H:\UnitTestTri\bin\Debug\Tri.exe
+H:\UnitTestTri\bin\Debug\Tri.pdb
+H:\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+H:\UnitTestTri\obj\Debug\UnitTestTri.dll
+H:\UnitTestTri\obj\Debug\UnitTestTri.pdb
+E:\UnitTestTri\bin\Debug\UnitTestTri.dll
+E:\UnitTestTri\bin\Debug\UnitTestTri.pdb
+E:\UnitTestTri\bin\Debug\Tri.exe
+E:\UnitTestTri\bin\Debug\Tri.pdb
+E:\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+E:\UnitTestTri\obj\Debug\UnitTestTri.dll
+E:\UnitTestTri\obj\Debug\UnitTestTri.pdb
+F:\UnitTestTri\bin\Debug\UnitTestTri.dll
+F:\UnitTestTri\bin\Debug\UnitTestTri.pdb
+F:\UnitTestTri\bin\Debug\Tri.exe
+F:\UnitTestTri\bin\Debug\Tri.pdb
+F:\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+F:\UnitTestTri\obj\Debug\UnitTestTri.dll
+F:\UnitTestTri\obj\Debug\UnitTestTri.pdb
