@@ -24,3 +24,4 @@ C:\Users\me222rs\Documents\GitHub\Uppgift-1\Tri\obj\Debug\Tri.exe
 C:\Users\me222rs\Documents\GitHub\Uppgift-1\Tri\obj\Debug\Tri.pdb
 C:\Users\me222rs\Documents\GitHub\Uppgift-1\Tri\bin\Debug\Tri.exe
 C:\Users\me222rs\Documents\GitHub\Uppgift-1\Tri\bin\Debug\Tri.pdb
+C:\Users\me222rs\Documents\GitHub\Uppgift-1\Tri\obj\Debug\Tri.csprojResolveAssemblyReference.cache
